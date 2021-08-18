@@ -20,6 +20,6 @@
 - 📫 How to reach me: [@umireon on Twitter](https://twitter.com/umireon/)
 - 😄 Pronouns: /kaito/ /ɯdaɡawa/
 
-  </td>
+</td>
 </th>
 </table>
