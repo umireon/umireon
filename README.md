@@ -12,9 +12,8 @@
 - ⭐️ Please invite 1-star and 3-star raids
 - 🐥 [Twitter](https://twitter.com/umireon)
 - 🎬 [YouTube](https://www.youtube.com/channel/UCfhyVWrxCmdUpst-5n7Kz_Q)
-- 🎥 [YouTube Sub](https://www.youtube.com/channel/UCumTleFHsbhzVKmIlzi22Nw)
 - ⚡ Fun fact: Crazy about Pokémon GO
-- 🔭 I’m currently working on [Ricksoft, Inc.](https://ricksoft-inc.com/)
+- 🔭 I’m currently working on [Monoxer, K. K.](https://corp.monoxer.com/)
 - 🌱 I’m currently learning AWS
 - 💬 Ask me about shell scripts
 - 📫 How to reach me: [@umireon on Twitter](https://twitter.com/umireon/)
